@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "0.1.0",
-  "homepage": "https://marcuscch.github.io/newblog",
+  "homepage": "https://marcuscch.github.io/blog",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
